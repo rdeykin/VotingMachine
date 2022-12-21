@@ -1,0 +1,6 @@
+Best Quarterback
+3
+Tom Brady;Tampa Bay Buccaneers
+Patrick Mahomes;San Fransisco 49's
+Deshaun Watson;Houston Texans
+
